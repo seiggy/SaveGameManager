@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveGameManager", "SaveGameManager\SaveGameManager.csproj", "{C2E9F3EA-542C-452F-B2D4-F3A21F93335F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGMServices", "SGMServices\SGMServices.csproj", "{33AD9BBE-AC09-4E65-A5F2-1A34ADEBA3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E9F3EA-542C-452F-B2D4-F3A21F93335F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E9F3EA-542C-452F-B2D4-F3A21F93335F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E9F3EA-542C-452F-B2D4-F3A21F93335F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E9F3EA-542C-452F-B2D4-F3A21F93335F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AD9BBE-AC09-4E65-A5F2-1A34ADEBA3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AD9BBE-AC09-4E65-A5F2-1A34ADEBA3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AD9BBE-AC09-4E65-A5F2-1A34ADEBA3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AD9BBE-AC09-4E65-A5F2-1A34ADEBA3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
